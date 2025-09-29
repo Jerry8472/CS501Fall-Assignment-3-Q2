@@ -1,6 +1,7 @@
 ## How to use the app
-Clone the repo, open it in Android Studio, and press Run to launch on an emulator or device.
-
+1. Clone the repo, open it in Android Studio, and press Run to launch on an emulator or device.
+2. Clicking the button will either show or hide the badge.
+   
 ## Explanation
 App demonstrates how to use a Box layout in Jetpack Compase to overlay a notification badge on a profile picture.
 - A circular profile picture placeholder is created using a `Box` with `CircleShape` and background color.
